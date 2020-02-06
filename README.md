@@ -1,6 +1,6 @@
 # Bioinformatics
 
-**_Python programs_** used to solve classical **_Bioinformatics_** problems that involve analyzing DNA sequences given as Fasta Files. Code is programmed using **_Object Oriented_** style for easy use elswhere. **_Dynammic Programming Algorithms_** are extensively used, which are **_algorithms that essentially divide a large problem into a series of smaller problems, and it uses the solutions to the smaller problems to find an optimal solution to the larger problem_**
+**_Python programs_** used to solve classical **_Bioinformatics_** problems that involve analyzing DNA sequences given as Fasta Files. Code is programmed using **_Object Oriented Design_** for easy use elswhere. **_Dynammic Programming Algorithms_** are extensively used, which are **_algorithms that essentially divide a large problem into a series of smaller problems, and it uses the solutions to the smaller problems to find an optimal solution to the larger problem_**
 
 ## _Gene-Finding.py_ : Application of Hidden Markov Models
 
