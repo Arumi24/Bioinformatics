@@ -1,3 +1,2 @@
-# Bioinformatics
-
+# Computational Biology
 
